@@ -37,3 +37,6 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+
+[![Build Status](https://travis-ci.com/weekend79/Blog_all_about_it.svg?branch=master)](https://travis-ci.com/weekend79/Blog_all_about_it)
